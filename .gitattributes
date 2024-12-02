@@ -1,0 +1,6 @@
+app/AutoNavi.apk filter=lfs diff=lfs merge=lfs -text
+app/LBSNavi.apk filter=lfs diff=lfs merge=lfs -text
+app/MiXplorer.apk filter=lfs diff=lfs merge=lfs -text
+app/es.apk filter=lfs diff=lfs merge=lfs -text
+app/my-preface.apk filter=lfs diff=lfs merge=lfs -text
+app/x-browser.apk filter=lfs diff=lfs merge=lfs -text
